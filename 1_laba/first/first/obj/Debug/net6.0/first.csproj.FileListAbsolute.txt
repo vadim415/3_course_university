@@ -1,0 +1,15 @@
+D:\Документы\Work\Students\лаби_github\1\first\first\bin\Debug\net6.0\first.exe
+D:\Документы\Work\Students\лаби_github\1\first\first\bin\Debug\net6.0\first.deps.json
+D:\Документы\Work\Students\лаби_github\1\first\first\bin\Debug\net6.0\first.runtimeconfig.json
+D:\Документы\Work\Students\лаби_github\1\first\first\bin\Debug\net6.0\first.dll
+D:\Документы\Work\Students\лаби_github\1\first\first\bin\Debug\net6.0\first.pdb
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\first.csproj.AssemblyReference.cache
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\first.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\first.AssemblyInfoInputs.cache
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\first.AssemblyInfo.cs
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\first.csproj.CoreCompileInputs.cache
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\first.dll
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\refint\first.dll
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\first.pdb
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\first.genruntimeconfig.cache
+D:\Документы\Work\Students\лаби_github\1\first\first\obj\Debug\net6.0\ref\first.dll
